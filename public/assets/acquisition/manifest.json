@@ -1,0 +1,182 @@
+[
+  {
+    "originalFile": "scraped-01.jpg",
+    "file": "photos/restaurant/peppe-s-pasta-food-truck-01.jpg",
+    "category": "restaurant",
+    "quality": "high",
+    "subject": "Peppe's Pasta Food Truck",
+    "subjectSlug": "peppe-s-pasta-food-truck",
+    "description": "Ein beleuchteter Food Truck von Peppe's Pasta, der italienische Speisen anbietet, bei Nacht."
+  },
+  {
+    "originalFile": "scraped-02.jpg",
+    "file": "photos/dishes/pizza-mit-eiern-und-schinken-01.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Pizza mit Eiern und Schinken",
+    "subjectSlug": "pizza-mit-eiern-und-schinken",
+    "description": "Eine frisch gebackene Pizza mit Eiern, Schinken und Käse auf einem Holzbrett."
+  },
+  {
+    "originalFile": "scraped-03.jpg",
+    "file": "photos/dishes/rigatoni-mit-tomatensoe-und-kase-01.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Rigatoni mit Tomatensoße und Käse",
+    "subjectSlug": "rigatoni-mit-tomatensoe-und-kase",
+    "description": "Ein Gericht mit Rigatoni in Tomatensoße und geschmolzenem Käse in einer Aluminiumschale."
+  },
+  {
+    "originalFile": "scraped-04.jpg",
+    "file": "photos/dishes/rigatoni-mit-tomatensauce-und-kase-01.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Rigatoni mit Tomatensauce und Käse",
+    "subjectSlug": "rigatoni-mit-tomatensauce-und-kase",
+    "description": "Ein Gericht mit Rigatoni in Tomatensauce, bestreut mit geriebenem Käse, in einer Aluminiumschale."
+  },
+  {
+    "originalFile": "scraped-05.jpg",
+    "file": "photos/dishes/uberbackene-rigatoni-01.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Überbackene Rigatoni",
+    "subjectSlug": "uberbackene-rigatoni",
+    "description": "Ein Nudelauflauf mit Rigatoni, Fleischsauce und geschmolzenem Käse in einer Aluminiumschale."
+  },
+  {
+    "originalFile": "scraped-06.jpg",
+    "file": "photos/restaurant/professionelle-restaurantkuche-01.jpg",
+    "category": "restaurant",
+    "quality": "high",
+    "subject": "Professionelle Restaurantküche",
+    "subjectSlug": "professionelle-restaurantkuche",
+    "description": "Ein Blick in eine saubere und gut ausgestattete professionelle Restaurantküche mit Edelstahlbehältern und Kochutensilien."
+  },
+  {
+    "originalFile": "scraped-07.jpg",
+    "file": "photos/dishes/hahnchensalat-in-aluschale-01.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Hähnchensalat in Aluschale",
+    "subjectSlug": "hahnchensalat-in-aluschale",
+    "description": "Ein Hähnchensalat mit cremigem Dressing, Tomaten und Zwiebeln in einer Aluschale."
+  },
+  {
+    "originalFile": "scraped-08.jpg",
+    "file": "photos/dishes/pizza-und-spaghetti-01.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Pizza und Spaghetti",
+    "subjectSlug": "pizza-und-spaghetti",
+    "description": "Eine Pizza in einem Karton und Spaghetti in einer Aluminiumschale stehen auf einem Steinsockel im Freien."
+  },
+  {
+    "originalFile": "scraped-09.jpg",
+    "file": "photos/dishes/calzone-in-pizzakarton-01.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Calzone in Pizzakarton",
+    "subjectSlug": "calzone-in-pizzakarton",
+    "description": "Ein Calzone liegt in einem offenen Pizzakarton."
+  },
+  {
+    "originalFile": "scraped-10.jpg",
+    "file": "photos/restaurant/pizza-und-nudelgerichte-01.jpg",
+    "category": "restaurant",
+    "quality": "high",
+    "subject": "Pizza und Nudelgerichte",
+    "subjectSlug": "pizza-und-nudelgerichte",
+    "description": "Das Foto zeigt eine Pizza in einem Karton und zwei Nudelgerichte in Aluminiumbehältern auf einem Holztisch."
+  },
+  {
+    "originalFile": "scraped-11.jpg",
+    "file": "photos/menu_cards/speisekarte-mit-offnungszeiten-und-kontakt-01.jpg",
+    "category": "menu_card",
+    "quality": "high",
+    "subject": "Speisekarte mit Öffnungszeiten und Kontakt",
+    "subjectSlug": "speisekarte-mit-offnungszeiten-und-kontakt",
+    "description": "Eine Speisekarte mit dem Logo von Peppe's Pasta, Öffnungszeiten, Telefonnummer und Adresse."
+  },
+  {
+    "originalFile": "scraped-12.jpg",
+    "file": "photos/menu_cards/speisekarte-italienisches-restaurant-01.jpg",
+    "category": "menu_card",
+    "quality": "high",
+    "subject": "Speisekarte italienisches Restaurant",
+    "subjectSlug": "speisekarte-italienisches-restaurant",
+    "description": "Eine Speisekarte eines italienischen Restaurants mit Desserts, Getränken und Kontaktinformationen."
+  },
+  {
+    "originalFile": "scraped-13.jpg",
+    "file": "photos/menu_cards/speisekarte-mit-pasta-pizza-und-salaten-01.jpg",
+    "category": "menu_card",
+    "quality": "high",
+    "subject": "Speisekarte mit Pasta, Pizza und Salaten",
+    "subjectSlug": "speisekarte-mit-pasta-pizza-und-salaten",
+    "description": "Das Foto zeigt eine Speisekarte mit verschiedenen Pasta-, Pizza- und Salatgerichten sowie Preisen und Beschreibungen."
+  },
+  {
+    "originalFile": "scraped-14.jpg",
+    "file": "photos/dishes/pizza-quattro-stagioni-01.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Pizza Quattro Stagioni",
+    "subjectSlug": "pizza-quattro-stagioni",
+    "description": "Eine Pizza Quattro Stagioni in einer weißen Pizzaschachtel."
+  },
+  {
+    "originalFile": "scraped-15.jpg",
+    "file": "photos/dishes/salami-pizza-im-karton-01.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Salami Pizza im Karton",
+    "subjectSlug": "salami-pizza-im-karton",
+    "description": "Eine Salami Pizza mit Kräutern in einem weißen Pizzakarton."
+  },
+  {
+    "originalFile": "scraped-16.jpg",
+    "file": "photos/dishes/pizza-mit-sardellen-und-kapern-01.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Pizza mit Sardellen und Kapern",
+    "subjectSlug": "pizza-mit-sardellen-und-kapern",
+    "description": "Eine frisch gebackene Pizza mit Sardellen und Kapern liegt in einem weißen Pizzakarton auf einer Edelstahloberfläche."
+  },
+  {
+    "originalFile": "scraped-17.jpg",
+    "file": "photos/dishes/salami-pizza-01.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Salami Pizza",
+    "subjectSlug": "salami-pizza",
+    "description": "Eine frisch gebackene Salami-Pizza in einer Pizzaschachtel."
+  },
+  {
+    "originalFile": "scraped-18.jpg",
+    "file": "photos/dishes/pizza-margherita-01.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Pizza Margherita",
+    "subjectSlug": "pizza-margherita",
+    "description": "Eine frisch gebackene Pizza Margherita in einem Pizzakarton."
+  },
+  {
+    "originalFile": "scraped-19.jpg",
+    "file": "photos/dishes/pizza-mit-ei-und-schinken-01.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Pizza mit Ei und Schinken",
+    "subjectSlug": "pizza-mit-ei-und-schinken",
+    "description": "Eine frisch gebackene Pizza mit Ei, Schinken und Käse auf einem Holzbrett."
+  },
+  {
+    "originalFile": "scraped-20.jpg",
+    "file": "photos/dishes/pizza-mit-eiern-und-schinken-02.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Pizza mit Eiern und Schinken",
+    "subjectSlug": "pizza-mit-eiern-und-schinken",
+    "description": "Eine frisch gebackene Pizza mit Eiern, Schinken und Käse auf einem Holzbrett."
+  }
+]

@@ -1,0 +1,162 @@
+{
+  "name": "Peppe's Pasta",
+  "tagline": "Italien-Feeling am Truck",
+  "intro": "Ein kleiner italienischer Foodtruck in der Hofstraße 1 in Ludwigshafen. Pizza und Pasta, frisch zubereitet, in kleinen Portionen und in der Aluschale serviert. Familiengeführt, mit fairen Preisen und großen Portionen, wie es in einem ehrlichen italienischen Imbiss sein soll.",
+  "address": {
+    "street": "Hofstraße 1",
+    "city": "67065 Ludwigshafen am Rhein",
+    "country": "Deutschland"
+  },
+  "contact": {
+    "phone": "01575 7255307",
+    "email": "",
+    "instagram": "@peppes_pasta"
+  },
+  "openingHours": [
+    { "day": "Montag",     "hours": "12:00 – 14:00, 17:00 – 22:00" },
+    { "day": "Dienstag",   "hours": "Ruhetag" },
+    { "day": "Mittwoch",   "hours": "12:00 – 14:00, 17:00 – 22:00" },
+    { "day": "Donnerstag", "hours": "12:00 – 14:00, 17:00 – 22:00" },
+    { "day": "Freitag",    "hours": "12:00 – 14:00, 17:00 – 22:00" },
+    { "day": "Samstag",    "hours": "17:00 – 22:00" },
+    { "day": "Sonntag",    "hours": "17:00 – 22:00" }
+  ],
+  "reviews": {
+    "rating": 5.0,
+    "count": 22,
+    "source": "Google",
+    "excerpts": [
+      {
+        "name": "Luca Brück",
+        "rating": 5,
+        "date": "vor 3 Monaten",
+        "text": "Super leckeres authentisches Italienisches Essen. Ging sehr schnell von Bestellung bis Abholung. Und vor allem sehr freundliches und zuvorkommendes Personal. Kann ich nur weiterempfehlen!"
+      },
+      {
+        "name": "M&M Jambo-Gisbert",
+        "rating": 5,
+        "date": "vor 2 Monaten",
+        "text": "Ich bin wirklich begeistert von Peppe's Pasta! Das Essen ist einfach super lecker, man schmeckt sofort die Qualität und die Liebe, mit der alles zubereitet wird. Die Preise sind absolut fair, die Portionen richtig groß. Aber was mir am meisten in Erinnerung bleibt: Die Familie ist einfach unglaublich lieb und herzlich. Man fühlt sich direkt willkommen und gut aufgehoben."
+      },
+      {
+        "name": "Toni Nekaj",
+        "rating": 5,
+        "date": "vor 2 Monaten",
+        "text": "Sehr sehr freundliches Personal. Und das Essen einfach nur wow. Sehr lecker und die Preise sind super fair."
+      },
+      {
+        "name": "nj a",
+        "rating": 5,
+        "date": "vor 4 Monaten",
+        "text": "Der BESTE Food-Truck in ganz Ludwigshafen! Pizza und Pasta vom Feinsten, ich würde auch 10 Sterne vergeben. Inhaber super freundlich und hier wird jedes Gericht mit ganz viel Liebe zubereitet. Für alle die ein kleines Stück Italien-Feeling auf dem Esstisch haben möchten ist Peppe's Pasta genau das Richtige."
+      },
+      {
+        "name": "Fener 1907",
+        "rating": 5,
+        "date": "vor 4 Monaten",
+        "text": "Sehr leckeres Essen. Ich bin seit Tag eins dabei. Kann es jedem empfehlen. Einfach mal die leckere Lasagne probieren. Oder mein Favorit, Pizza Parma, da wird sogar noch alles selbst gemacht. Frische Zutaten und immer ein nettes Gespräch. Es macht Spaß zuzugucken, wie das alles zubereitet wird. Authentisch, ehrlich und Preis-Leistung top. Ich werde mindestens 1 mal die Woche kommen. Bis zum nächsten Mal, Pepe."
+      }
+    ]
+  },
+  "menu": [
+    {
+      "category": "Pasta",
+      "subtitle": "Frisch gekocht in der Aluschale",
+      "items": [
+        { "name": "Lasagna",                          "description": "Rinderhackfleisch und Käse überbacken.",                              "price": "9,00" },
+        { "name": "Tris di Pasta",                    "description": "Drei Pastasorten mit Tomatensoße, Rinderhackfleisch und Käse überbacken.", "price": "11,00" },
+        { "name": "Rigatoni al Forno",                "description": "Rinderhackfleisch, Tomatensoße und Käse überbacken.",                  "price": "9,00" },
+        { "name": "Pasta alla Norma",                 "description": "Auberginen, Tomatensoße und geriebener Ricotta.",                       "price": "9,00" },
+        { "name": "Rigatoni Gorgonzola",              "description": "Gorgonzola-Sahnecreme mit Blattspinat.",                                "price": "9,00" },
+        { "name": "Rigatoni Amalfitana",              "description": "Tomaten-Sahnesoße mit Knoblauch und Käse.",                             "price": "8,50" },
+        { "name": "Rigatoni Puttanesca",              "description": "Tomatensoße mit Thunfisch, Kapern und Oliven.",                         "price": "9,50" },
+        { "name": "Rigatoni al Pomodoro",             "description": "Tomatensoße.",                                                          "price": "6,00" },
+        { "name": "Spaghetti Bolognese",              "description": "Tomaten-Hackfleischsoße.",                                              "price": "8,00" },
+        { "name": "Rigatoni Primavera",               "description": "Hinterschinken, Erbsen und Champignons in Tomatensahnesoße.",          "price": "9,00" },
+        { "name": "Spaghetti Carbonara",              "description": "Eigelb, Guanciale und Pecorino.",                                       "price": "9,00" },
+        { "name": "Spaghetti Aglio, Olio e Peperoncino", "description": "Knoblauch, Olivenöl und Pfefferschoten.",                            "price": "8,00" },
+        { "name": "Tortelloni al Gorgonzola",         "description": "Fleischtortelloni in Gorgonzolasoße.",                                  "price": "10,00" },
+        { "name": "Tortelloni al Prosciutto",         "description": "Hinterschinken in Sahnesoße.",                                          "price": "10,00" }
+      ]
+    },
+    {
+      "category": "Pizza 25 cm",
+      "subtitle": "Direkt aus dem Ofen, im Karton",
+      "items": [
+        { "name": "Margherita",       "description": "Tomatensoße und Käse.",                                                "price": "5,00" },
+        { "name": "Prosciutto",        "description": "Tomatensoße, Käse und Hinterschinken.",                                "price": "7,00" },
+        { "name": "Romana",            "description": "Tomatensoße, Sardellen, Käse und Kapern.",                             "price": "7,00" },
+        { "name": "Napoli",            "description": "Tomatensoße, Sardellen, Käse, Oliven und Knoblauch.",                  "price": "7,00" },
+        { "name": "Salami",            "description": "Tomatensoße, Käse und Salami.",                                        "price": "7,00" },
+        { "name": "Tonno e Cipolla",   "description": "Tomatensoße, Käse, Thunfisch und Zwiebeln.",                           "price": "7,50" },
+        { "name": "Funghi",            "description": "Tomatensoße, Käse und Champignons.",                                   "price": "7,00" },
+        { "name": "4 Formaggi",        "description": "Vier verschiedene Käsesorten.",                                        "price": "8,00" },
+        { "name": "4 Stagioni",        "description": "Tomatensoße, Käse, Artischocken, Champignons, Salami und Hinterschinken.", "price": "8,50" },
+        { "name": "Diavola",           "description": "Tomatensoße, Käse und scharfe Salami.",                                "price": "8,50" },
+        { "name": "Parma",             "description": "Tomatensoße, Käse, Parmaschinken, Rucola und Parmesan.",               "price": "9,00" },
+        { "name": "Frutti di Mare",    "description": "Tomatensoße, Meeresfrüchte, Käse und Knoblauch.",                      "price": "11,00" },
+        { "name": "Salmone",           "description": "Tomatensoße, Lachs, Blattspinat und Knoblauch.",                       "price": "10,00" }
+      ]
+    },
+    {
+      "category": "Salate",
+      "subtitle": "Knackig und frisch",
+      "items": [
+        { "name": "Insalata Mista",      "description": "Eisbergsalat, Tomaten, Gurken, Zwiebeln.",                                   "price": "5,00" },
+        { "name": "Insalata Primavera",  "description": "Eisbergsalat, Tomaten, Gurken, Karotten, Zwiebeln.",                         "price": "6,00" },
+        { "name": "Insalata Tonno",      "description": "Eisbergsalat, Tomaten, Gurken, Eier, Thunfisch, Zwiebeln.",                  "price": "9,00" },
+        { "name": "Insalata Prosciutto", "description": "Eisbergsalat, Tomaten, Gurken, Eier, Hinterschinken, Zwiebeln und Käse.",   "price": "9,00" },
+        { "name": "Insalata Pollo",      "description": "Eisbergsalat, Tomaten, Gurken, Mozzarella, Hähnchenbrustfilet, Zwiebeln.",  "price": "10,00" }
+      ]
+    },
+    {
+      "category": "Dolci",
+      "subtitle": "Süßer Abschluss",
+      "items": [
+        { "name": "Cannoli",              "description": "Gefüllt mit Ricottacreme.",   "price": "3,00" },
+        { "name": "Tiramisù",             "description": "Hausgemacht.",                "price": "3,50" },
+        { "name": "Salame Siciliano",     "description": "Sizilianisches Dessert.",     "price": "4,00" },
+        { "name": "Pizzabrot mit Nutella","description": "25 cm.",                       "price": "4,50" }
+      ]
+    },
+    {
+      "category": "Getränke",
+      "subtitle": "Für den Durst zwischendurch",
+      "items": [
+        { "name": "Coca-Cola",       "description": "0,33 l / 1 l", "price": "2,50" },
+        { "name": "Coca-Cola Zero",  "description": "0,33 l / 1 l", "price": "2,50" },
+        { "name": "Sprite",          "description": "0,33 l / 1 l", "price": "2,50" },
+        { "name": "Mezzo Mix",       "description": "0,33 l / 1 l", "price": "2,50" },
+        { "name": "Fanta",           "description": "0,33 l / 1 l", "price": "2,50" },
+        { "name": "Red Bull",        "description": "",             "price": "3,00" },
+        { "name": "Malzbier",        "description": "0,33 l",       "price": "3,00" }
+      ]
+    },
+    {
+      "category": "Wein",
+      "subtitle": "Aus der Flasche",
+      "items": [
+        { "name": "Lambrusco",        "description": "Rot oder weiß, 0,75 l.", "price": "12,00" },
+        { "name": "Weißwein trocken", "description": "0,75 l.",                "price": "12,00" },
+        { "name": "Rotwein trocken",  "description": "0,75 l.",                "price": "12,00" }
+      ]
+    },
+    {
+      "category": "Bier",
+      "subtitle": "Eisgekühlt",
+      "items": [
+        { "name": "Bitburger",         "description": "", "price": "3,00" },
+        { "name": "Becks",             "description": "", "price": "3,00" },
+        { "name": "Heineken",          "description": "", "price": "3,00" },
+        { "name": "Warsteiner Radler", "description": "", "price": "3,00" }
+      ]
+    },
+    {
+      "category": "Sonstiges",
+      "subtitle": "Kleinigkeiten am Rand",
+      "items": [
+        { "name": "Knoblauch-Pizzabrot 25 cm", "description": "Frisch aus dem Ofen.", "price": "2,50" }
+      ]
+    }
+  ]
+}
